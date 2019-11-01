@@ -814,7 +814,7 @@ map = L.map("map", {
   zoom: 18,
   center: [0.468057,  101.355697], // center di 101.35569777220351, 0.468057021493219 
   // default layers on
-  layers: [fst_lt1, gb_lt1, kantin,lab_fst_lt1, psi_lt1, taman],
+  layers: [dron_dji20170704, fst_lt1, gb_lt1, kantin,lab_fst_lt1, psi_lt1, taman],
   zoomControl: false,
   // we have our own attributionControl
   attributionControl: false
